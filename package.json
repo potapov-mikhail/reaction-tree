@@ -1,0 +1,20 @@
+{
+  "name": "reaction-tree",
+  "version": "1.0.0",
+  "description": "Reaction Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potapov-mikhail/reaction-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potapov-mikhail/reaction-tree/issues"
+  },
+  "homepage": "https://github.com/potapov-mikhail/reaction-tree#readme"
+}
